@@ -20,10 +20,6 @@ img {
   display: flex;
 }
 
-.slide {
-  transform: translate3d(0px, 0px, 0px);
-}
-
 .slide li {
   flex-shrink: 0;
   width: 80vw;
