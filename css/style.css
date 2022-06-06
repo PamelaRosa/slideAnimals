@@ -1,5 +1,6 @@
 body {
   margin: 0px;
+  background-color: #222;
 }
 
 ul {
@@ -104,7 +105,7 @@ main .arrow-nav button {
   position: absolute;
   top: 40%;
   background: url("../img/arrow.png") center center no-repeat;
-  filter: opacity(50%);
+  filter: opacity(70%);
   opacity: 0;
   transition: 0.5s;
 }
